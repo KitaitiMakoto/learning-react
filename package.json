@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "watch": "jsx --harmony --extension=jsx --watch src build"
+  },
+  "dependencies": {
+    "react": "^0.13.3",
+    "react-tools": "^0.13.3"
+  }
+}
